@@ -1,7 +1,8 @@
 # ⚡ ecr17.dev
 
 ### **Software Developer Artisan of Laravel & Vue.js**
-Soy desarrollador de software apasionado por construir soluciones integrales. Aunque mi base es web, no me pongo límites: he desarrollado aplicaciones móviles con Ionic, NativeScript y ahora estoy enfocado en React Native. Mi especialidad y donde más aporto valor es en el stack de **Laravel + Vue + Livewire + Tailwind CSS**.
+Soy desarrollador de software apasionado por construir soluciones integrales y escalables.
+Mi principal especialidad es el stack Laravel + Vue 3 + Livewire + Tailwind CSS, donde más valor aporto diseñando y desarrollando aplicaciones web robustas, mantenibles y orientadas a negocio. Aunque mi base es el desarrollo web, no me pongo límites: también he desarrollado aplicaciones móviles con Ionic y NativeScript, y actualmente estoy enfocado en React Native para seguir expandiendo mis capacidades en entornos multiplataforma.
 
 ---
 
